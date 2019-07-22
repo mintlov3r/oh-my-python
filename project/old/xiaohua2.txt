@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="gbk" />
+<meta name="applicable-device" content="pc">
+<title>【冷笑话】2019冷笑话大全-ZOL笑话频道</title>
+             <meta name="keywords" content="冷笑话，冷笑话大全，2019冷笑话" />
+             <meta name="description" content="ZOL笑话频道为您提供各种冷笑话，最新最经典的冷笑话，海量的冷笑话尽在ZOL笑话频道,让您一览无余" /><link href="//s.zol-img.com.cn/d/Xiaohua/Xiaohua_List.css?v=652" rel="stylesheet" type="text/css" />
+<meta http-equiv="mobile-agent" content="format=html5; url=//m.zol.com.cn/xiaohua/lengxiaohua/"/>
+<script>
+        var nA = navigator.userAgent;
+        ios = /iPhone|iPod|iTouch/i.test(nA);
+        android = /android/i.test(nA);
+        if(window.location.href.indexOf("?via=")<0){
+            if(ios || android){
+                self.location='//m.zol.com.cn/xiaohua'+location.pathname;
+            }
+        }
+</script>
+<script src="//p.zol-img.com.cn/xiaohua/list.js" type="text/javascript"></script>
+<style>
+    .guanggao{
+    line-height: 30px;
+    margin: 10px 0 0;
+    padding: 10px 0 10px 10px;
+   } 
+   .guangao{
+    margin: 11px 0 0;
+    padding: 0 20px 30px 15px;
+    position: relative;
+    }
+</style>
+</head>
+<body class="list-body-bg"> 
+<!-- site-nav -->
+<script type="text/javascript" src="//icon.zol-img.com.cn/sj/js/webHeadNew.js"></script>
+<link type="text/css" href="//icon.zol-img.com.cn/sj/css/webHead.css" rel="stylesheet" />
+<!-- //site-nav -->
+<!--<div class="header clearfix"><script>write_ad("xiaohua_index_head_top");</script></div>-->
+<!-- header -->
+<div class="header clearfix">
+	<a class="logo" href="/"><img src="//icon.zol-img.com.cn/xiazai/logo/xiaohua-logo.png" width="211" height="32" alt="ZOL笑话大全" /></a>
+	<span class="purpose-marks">传递正能量</span>
+	<div class="sub-links">
+        <span>用手机看笑话：</span><a href="#">app.zol.com.cn/xiaohua/</a>
+	</div>
+	<div class="searchbox">
+		<form onsubmit="return (function(){var text = document.getElementById('softSearch').value; if(text == '' || text == '请输入笑话关键词') return false;})()" action="//xiazai.zol.com.cn/search" method="get" target="_blank">
+				<div id="globalSelectBox" class="selectbox">
+					<input type="text" id="showText" readonly value="软件">
+					<ul id="globalSelectUl">
+						<li class="hover">机型</li>
+						<li>软件</li>
+						<li>壁纸</li>
+					</ul> 
+				</div>
+				<div class="stext">
+				<input id="softSearch" onfocus="if(this.value == '请输入笑话关键词') this.value='';this.style.color='#333';" onblur="(function(obj){var val = obj.value.replace(/(^\s*)|(\s*$)/g,'');if(!val) {obj.value='请输入笑话关键词';obj.style.color='#999999';}})(this);" type="text" name="wd" autocomplete="off" value="请输入笑话关键词" />
+			</div>
+            <input type="hidden" name="type" value="6" />
+			<input class="sbtn" type="submit" value="搜索" />
+		</form>
+	</div>
+</div>
+<!-- //header -->
+<!-- navbox -->
+<style>
+.header .searchbox .sbtn{background:#ff7400;text-indent: 0;font-size: 14px;color: #fff;font-weight: bold;}
+.header .searchbox .sbtn:hover{background: #df5700;}
+
+.navbox, .navbox li, .searchbox .sbtn, .header .sub-links span{background-color:#ff7400;background-image: none;}
+.navbox{height: 38px;line-height: 38px;-webkit-border-radius: 3px;-moz-border-radius: 3px;-o-border-radius: 3px;border-radius: 0;}
+.nav li{height: 38px;line-height: 38px;}
+.nav li a:hover{background: #df5700;text-decoration: none;}
+</style> 
+<!-- navbox -->
+<div class="navbox clearfix">
+	<ul class="nav">
+		<li class="first"><a href="/">笑话首页</a></li>
+		<li><a href="/new/">最新笑话</a></li>
+
+		<li><a href="/lengxiaohua/">冷笑话</a></li>
+		<li><a href="/qutu/">搞笑趣图</a></li>
+        <li><a href="/video/">搞笑视频</a></li>
+		<li><a target="_blank" href="//my.zol.com.cn/index.php?c=app&id=1">上传笑话</a></li> 
+	</ul>
+	<div class="nav-link"><span>相关推荐 :</span>
+	<a href="//desk.zol.com.cn/meinv/" target="_blank">高清壁纸</a>
+	<a href="//sj.zol.com.cn/game/" target="_blank">手机游戏</a>
+	<a href="//xiazai.zol.com.cn" target="_blank">软件下载</a>
+	<a href="//ai.zol.com.cn" target="_blank">电视软件</a>
+	</div>
+</div>
+<!-- //navbox -->
+
+
+
+<!-- location -->
+<div class="wrapper location clearfix"> 
+	<a href="javascript:add_mine()" class="collect"></a>
+    <a href="/">笑话大全</a><i> &gt; </i>
+    <a href="/new/">笑话连篇</a><i> &gt; </i>    <h1>冷笑话</h1></div>
+<!-- //location -->
+
+<!-- wrapper -->
+<div class="wrapper clearfix">
+	<!-- main -->
+	<div class="main"> 
+		<!-- filter -->
+		<div class="filter"> 
+			<div class="filter-links clearfix">
+                <a  href="/new/">全部</a><a class="current" href="/lengxiaohua/">冷笑话</a><a  href="/youmo/">幽默</a><a  href="/aiqing/">爱情</a><a  href="/baoxiaonannv/">爆笑男女</a><a  href="/baoxiao/">爆笑</a><a  href="/zonghe/">综合</a><a  href="/ertong/">儿童</a><a  href="/xiaoyuan/">校园</a><a  href="/jianduan/">简短</a><a  href="/zhengren/">整人</a><a  href="/jingdian/">经典</a><a  href="/kongbu/">恐怖</a><a  href="/dongwu/">动物</a><a  href="/neihan/">内涵</a><a  href="/yingyu/">英语</a><a  href="/xiaoxiaohua/">小笑话</a><a  href="/duanxin/">短信</a><a  href="/duanxiaohua/">短笑话</a><a  href="/yijuhua/">一句话</a><a  href="/jipin/">极品</a><a  href="/shuzi/">数学</a><a  href="/chaoji/">超级</a><a  href="/duanpian/">短篇</a><a  href="/sichuanfangyan/">四川方言</a><a  href="/shunkouliu/">顺口溜</a><a  href="/mingzhubaoxiao/">名著暴笑</a><a  href="/gaoxiaogeci/">搞笑歌词</a><a  href="/lianaibidu/">恋爱必读</a><a  href="/qiuaimiji/">求爱秘籍</a><a  href="/yuanchuang/">原创</a><a  href="/hahaquwen/">哈哈趣闻</a><a  href="/shuma/">数码</a><a  href="/zhongkouwei/">重口味</a><a  href="/gaoxiao/">搞笑</a><a  href="/gedifangyan/">各地方言</a>			</div>
+		</div>
+		<!-- //filter -->
+<!--		<div class="guanggao"><script>write_ad("xiaohua_list_top_one");</script></div>-->
+                
+                
+		<!-- article-list -->
+		<ul class="article-list"> 
+            <li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59364.html">把你冻僵滴是小冷段儿</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、火云邪神苦练多年，终于将蛤蟆功练至顶级并成功产下8个小蝌蚪。
+	</p>
+	<p>
+		2、老婆永远是对的，这话永远也是对的。但老婆没想到的是，她不一定永远是老婆
+	</p>
+	<p>
+		3、小王一辈子窝囊废，行将就木之际就渴望被人夸一次。<p></p>
+这份执念感动了老天爷，他派了一个大夫过来说：你这病吧，老厉害了。
+	</p>
+	<p>
+		4、人生天地间没有谁是容易的，就算是思聪也得每天犯愁怎么花钱。
+	</p>
+	<p>
+		5、“判断空气质量好不好可以抠鼻屎，黑的就是空气质量不好。”<p></p>
+“红的呢？”<p></p>
+“你抠猛了！ ”
+	</p>
+	<p>
+		6、昨晚预约了快递上门取件还预点了早餐，结果早上睡太死外卖打电话没听见，直接给我放门口窗台了，后来快递员来取件把我外卖寄走了。
+	</p>
+	<p>
+		7、自己做菜，女朋友每次都吃的干干净净，一直自我感觉良好自己做菜手艺不错，有一天突然意识到，女朋友可能就是单纯的能吃。
+	</p>
+	<p>
+		8、今天去理发，洗剪吹68，烫发和染发668。我就做了个洗剪吹，结账的时候发现居然收我668。。。<p></p>......</div>
+                                            <div data-id="59364" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59364.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59364.html","text":"#ZOL笑话分享#【把你冻僵滴是小冷段儿】1、火云邪神苦练多年，终于将蛤蟆功练至顶级并成功产下8个小蝌蚪。2、老婆永远是对的，这话永远也是对的。但老婆没想到的是，她不一定永远是老婆3、小...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59341.html">爆冷,冻僵你滴笑脸</a></span>
+                                            <div class="article-source"><span>来源：</span><span>哈哈MX</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、医院里，一孕妇难产，医生灵机一动，给她服用了益生菌。
+	</p>
+	<p>
+		2、300斤的某女没看到她老公躺在沙发上，一屁股把他坐死了。法律并没有追究她的责任，因为法不责重。
+	</p>
+	<p>
+		3、两个老人去养老院。。。<p></p>
+70岁的老人进去了，90岁老人没进去。<p></p>
+工作人员：“对不起，大爷，我们不接受儿女健在的老人。您的资料显示，你有一个儿子。”<p></p>
+90岁老人：“操，刚刚进去的就是我儿子！ ”
+	</p>
+	<p>
+		4、和哥们去一个经常去的小饭馆吃饭，因为经常去所以特别熟！吃完饭结账时104块钱，我和老板说：打个把零抹了吧？<p></p>......</div>
+                                            <div data-id="59341" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59341.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59341.html","text":"#ZOL笑话分享#【爆冷,冻僵你滴笑脸】1、医院里，一孕妇难产，医生灵机一动，给她服用了益生菌。2、300斤的某女没看到她老公躺在沙发上，一屁股把他坐死了。法律并没有追究她的责任，因为法...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59325.html">天儿冷,笑话也冷呢!</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、“大爷，我现场采访您一下，您这样晨跑锻炼坚持几年了？”<p></p>
+“姑娘别挡道！我尿急！ ”
+	</p>
+	<p>
+		2、“请问你是做什么工作的？”<p></p>
+“哦。我的工作是杀僵尸。”<p></p>
+“嗯？可是这个世界上没有僵尸啊！ ”<p></p>
+“你以为它们是怎么没有的？”
+	</p>
+	<p>
+		3、中午去买菜，感觉都不太新鲜了。<p></p>
+老板：早上刚到的，都新鲜的。<p></p>
+我：这菜看着就蔫蔫的啊？！<p></p>
+老板：从早上到现在，它以为没人要自己了，这不垂头丧气么！<p></p>
+我。。。
+	</p>
+	<p>
+		4、我问他：你今天怎么没上班儿啊？<p></p>......</div>
+                                            <div data-id="59325" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59325.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59325.html","text":"#ZOL笑话分享#【天儿冷,笑话也冷呢!】1、“大爷，我现场采访您一下，您这样晨跑锻炼坚持几年了？”“姑娘别挡道！我尿急！”2、“请问你是做什么工作的？”“哦。我的工作是杀僵尸。”“嗯...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59246.html">二货的尬事笑翻天</a></span>
+                                            <div class="article-source"><span>来源：</span><a  rel="nofollow" target="_blank" href="http://xiaohua.zol.com.cn/">本站原创</a></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、前些天嗓子病了，不能发声，领导却让我参加合唱比赛，给我说充个数就行。<p></p>
+我感觉这样不好，就积极治疗，赶在比赛前治好了。<p></p>
+结果比赛失利，领导一声叹息的道：“你怎么偏偏赶在这时候嗓子好了呢？”
+	</p>
+	<p>
+		2、半夜，路过按摩店，里面老板娘就朝我喊：老板，进来坐坐。<p></p>
+我对她说：“要钱么”。<p></p>
+然后她怒了说：“你见过世上免费的按摩店么？”<p></p>
+然后我破口大骂她：“你TM见过这么晚才下班的老板么？”
+	</p>
+	<p>
+		3、上厕所忘带纸了，发微信跟同事求救，这货没一会就进来了，让我发十块钱红包给她，不然就不给我纸！<p></p>......</div>
+                                            <div data-id="59246" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59246.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59246.html","text":"#ZOL笑话分享#【二货的尬事笑翻天】1、前些天嗓子病了，不能发声，领导却让我参加合唱比赛，给我说充个数就行。我感觉这样不好，就积极治疗，赶在比赛前治好了。结果比赛失利，领导一声叹...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59225.html">爆逗冷段,别笑坏了!</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、成语新释“远交近攻”：孩子做作业的时侯，离的远一点还能交流交流，离的近了，想不攻击都难！
+	</p>
+	<p>
+		2、我：“如果有人给你一千万换你男朋友，你会怎样想？”<p></p>
+闺蜜：“我艹，双喜临门啊！ ”
+	</p>
+	<p>
+		3、男：“我养你。”<p></p>
+女：“你那点钱怎么养我？”&nbsp;<p></p>
+男：“嗯。。。不保证养活。”<p></p>
+女。。。
+	</p>
+	<p>
+		4、“不是说消费降级吗？为什么去欧洲旅游了？”<p></p>
+“还是降了，本来想登月的。”
+	</p>
+	<p>
+		5、看到男友手机上有个女生和好用情侣头像，聊天内容也非常暧昧，我质问他：“是不是这个女人绿了我？”<p></p>......</div>
+                                            <div data-id="59225" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59225.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59225.html","text":"#ZOL笑话分享#【爆逗冷段,别笑坏了!】1、成语新释“远交近攻”：孩子做作业的时侯，离的远一点还能交流交流，离的近了，想不攻击都难！2、我：“如果有人给你一千万换你男朋友，你会怎样想...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59142.html">尬了半天,不知如何是好</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、一只老鼠在路边翻着垃圾，我揪起店里正在熟睡的花猫，使劲向老鼠扔去。<p></p>
+猫和老鼠都愣住了，对视了不到一秒，各自扭头就跑。。。
+	</p>
+	<p>
+		2、小时侯有次和哥们一起出去玩，在路上他捡了十块钱，说实话不嫉妒那是假的，于是我让他去小卖部买了些零食花了八块钱，就在我心里有些平衡的时候，结果老板找他四十二。。。
+	</p>
+	<p>
+		3、跟女友求婚：“以前我浑浑噩噩，直到遇到你，我才知道我以后该干什么？”<p></p>
+女友啪地一巴掌：“流氓！ ”
+	</p>
+	<p>
+		4、女同事凑过来说：“昨晚梦到你驾着七彩祥云来看我。”<p></p>......</div>
+                                            <div data-id="59142" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59142.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59142.html","text":"#ZOL笑话分享#【尬了半天,不知如何是好】1、一只老鼠在路边翻着垃圾，我揪起店里正在熟睡的花猫，使劲向老鼠扔去。猫和老鼠都愣住了，对视了不到一秒，各自扭头就跑。。。2、小时侯有次和哥们...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59135.html">没点儿冷段,热天可怎么过!</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、日全食：一整天全都在吃东西。
+	</p>
+	<p>
+		2、目击者：能用眼神杀人的人。
+	</p>
+	<p>
+		3、钢筋混凝土：形容一个人土得很倔强！
+	</p>
+	<p>
+		4、秃头和秃顶的区别：秃头是主动秃，秃顶是被动秃。
+	</p>
+	<p>
+		5、宅家的单身狗不一熬夜，好似八旬的老人不起夜，说给谁听谁不信。
+	</p>
+	<p>
+		6、人体的适应性和兼容性是很强的，比如：气体、液体、固体、半液半固体都可以从你的菊花中排出。
+	</p>
+	<p>
+		7、你俩看起来真般配，月老的垃圾分类还做的挺到位。
+	</p>
+	<p>
+		8、小时候总是把不开......</div>
+                                            <div data-id="59135" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59135.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59135.html","text":"#ZOL笑话分享#【没点儿冷段,热天可怎么过!】1、日全食：一整天全都在吃东西。2、目击者：能用眼神杀人的人。3、钢筋混凝土：形容一个人土得很倔强！4、秃头和秃顶的区别：秃头是主动秃，秃顶是被...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59125.html">高冷笑段,适合夏天欣赏</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、焊工放烟花，有种加班的感觉。
+	</p>
+	<p>
+		2、你们都不知道我们领导每天有多辛苦，骂人都骂出咽炎了。
+	</p>
+	<p>
+		3、“我有一份令人为之惊叹的工作。”<p></p>
+“啥？”<p></p>
+“挖藕。”
+	</p>
+	<p>
+		4、“我以前也不懂事，后来被人打了一顿。”<p></p>
+“就变懂事了？”<p></p>
+“还是不懂事，但不敢嚣张了。”
+	</p>
+	<p>
+		5、朋友见我在喝可乐便说：你怎么喝可乐？杀精的！<p></p>
+我回答：死在里面总比抛尸荒野强。。。
+	</p>
+	<p>
+		6、刚才又接到售楼处打来推销房子的电话，说市中心有个楼盘绿化率55%，要不要考虑下？<p></p>......</div>
+                                            <div data-id="59125" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59125.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59125.html","text":"#ZOL笑话分享#【高冷笑段,适合夏天欣赏】1、焊工放烟花，有种加班的感觉。2、你们都不知道我们领导每天有多辛苦，骂人都骂出咽炎了。3、“我有一份令人为之惊叹的工作。”“啥？”“挖藕。”4...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59122.html">唉,无语了老半天呢!</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、和闺蜜聊天，我就说为了我的下一代着想，我得找个帅哥结婚。<p></p>
+结果闺蜜说，帅哥为了他的下一代是不会跟你结婚的。
+	</p>
+	<p>
+		2、去食堂打饭，见着一个叫不出名字的菜。手一指：“阿姨，这是什么菜啊？”<p></p>
+隔着透明窗户，那位胖胖的打菜阿姨用穿透玻璃的声音回应道：“腊鸡！你要吗？！ ”<p></p>
+我。。。
+	</p>
+	<p>
+		3、女友不舒服，我陪她去医院，我：“我小时候经常打针，现在一看到穿白衣服的人我就害怕。”<p></p>
+女友：“你的意思是这婚纱照你不打算拍了是吧？”<p></p>
+我。。。
+	</p>
+	<p>
+		4、刚才路过公园，看到两个老爷子在下象棋，于是我就上去凑了个热闹。<p></p>......</div>
+                                            <div data-id="59122" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59122.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59122.html","text":"#ZOL笑话分享#【唉,无语了老半天呢!】1、和闺蜜聊天，我就说为了我的下一代着想，我得找个帅哥结婚。结果闺蜜说，帅哥为了他的下一代是不会跟你结婚的。2、去食堂打饭，见着一个叫不出名字...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59073.html">冷段一组,凉意浓</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、“今晚的月亮好大。”<p></p>
+“是埃”<p></p>
+两个宇航员站在月球上聊天。
+	</p>
+	<p>
+		2、A：不睡呢？<p></p>
+B：马上睡！<p></p>
+A：马上那么颠，能睡着？
+	</p>
+	<p>
+		3、别在朋友圈晒你去过多少地方了，这只能证明你踏遍祖国大地都没找到对象。
+	</p>
+	<p>
+		4、骑马的叫牛仔，马仔是个什么东西？
+	</p>
+	<p>
+		5、找了个新西兰女朋友，不为什么，就因为新西兰是全世界最优质的奶源地。
+	</p>
+	<p>
+		6、我觉得钱还是能买到感情的，不信你给我钱，我保证给你感情，哪怕父子情都行。
+	</p>
+	<p>
+		7、真想把我在北京住的房子卖掉，来一次说走就走的旅行，生活不止眼前的苟且，还有诗和远方，可惜房东就是不同意。
+	</p>
+	<p>
+		8、沙漠里，小兔子奄奄一息，秃鹫要来吃他。<p></p>......</div>
+                                            <div data-id="59073" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59073.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59073.html","text":"#ZOL笑话分享#【冷段一组,凉意浓】1、“今晚的月亮好大。”“是埃”两个宇航员站在月球上聊天。2、A：不睡呢？B：马上睡！A：马上那么颠，能睡着？3、别在朋友圈晒你去过多少地方了，这...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59021.html">高冷逗段儿,笑果上佳</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、冰箱是个好东西，可以把水果和蔬菜保存一个星期。。。再扔！
+	</p>
+	<p>
+		2、上午同时喝了红牛和奶茶，现在很担心会不会在胃里发生置换反应，变成红茶和奶牛。。。
+	</p>
+	<p>
+		3、有钱能使鬼推磨。以前看到这句话，我觉得以后我就是那个有钱人。现在我只想做个鬼。
+	</p>
+	<p>
+		4、中文很有意思：来到杨过曾经生活过的地方，小龙女动情地说：“我也想过过过儿过过的生活。”<p></p>
+今天看到一句话：右脚脚趾趾骨骨折。
+	</p>
+	<p>
+		5、得到可靠情报，晚上十点四十分，毒贩将在郊区一所废弃工厂交易。在交易地点，经验丰富的李警官早已埋伏多时。他隐蔽在附近的草丛中，举着枪，眼都不眨一下，睡得十分香甜。
+	</p>
+	<p>
+		6、蒜辣口，葱辣心，芥末专辣鼻子上那根筋。唯有辣椒不是人，辣完前门，辣后门。
+	</p>
+	<p>
+		7、公元1219年，成吉思汗率军西征，由于缺少炊具，无法做饭。太祖灵机一动，让士兵取下头盔当锅放火上烤肉，解决了这一问题。<p></p>......</div>
+                                            <div data-id="59021" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59021.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59021.html","text":"#ZOL笑话分享#【高冷逗段儿,笑果上佳】1、冰箱是个好东西，可以把水果和蔬菜保存一个星期。。。再扔！2、上午同时喝了红牛和奶茶，现在很担心会不会在胃里发生置换反应，变成红茶和奶牛。。...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail60/59014.html">太冷,得站在太阳下边看</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、下水道很郁闷的问：我想不通！于是它堵了。。。
+	</p>
+	<p>
+		2、谈起以前的事，李公公叹了口气：“岁月如割，往事如阉。”
+	</p>
+	<p>
+		3、今天老板又夸我了，他说：你真牛B，下午两点才来公司。
+	</p>
+	<p>
+		4、清明节期间最忌讳的话就是：“我扫你还是你扫我?”
+	</p>
+	<p>
+		5、谁能拯救中兴？格力，因为它掌握了核芯科技。
+	</p>
+	<p>
+		6、工作嘛，哪有轻松的，其实大家上班都一样累，不同的是，大家挣得都比你多。
+	</p>
+	<p>
+		7、空姐：先生麻烦您把手机调到飞行模式！<p></p>
+乘客：半小时前就说即将起飞了，你们应该把飞机调成飞行模式才对吧！
+	</p>
+	<p>
+		8、A：你公司对你价值观影响最深刻的企业文化是？<p></p>......</div>
+                                            <div data-id="59014" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail60/59014.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail60/59014.html","text":"#ZOL笑话分享#【太冷,得站在太阳下边看】1、下水道很郁闷的问：我想不通！于是它堵了。。。2、谈起以前的事，李公公叹了口气：“岁月如割，往事如阉。”3、今天老板又夸我了，他说：你真牛B，...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58981.html">高冷妙段,有趣的很呀!</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、美人卷珠帘，惊起蛙声一片。
+	</p>
+	<p>
+		2、女生眼中的男生：长得一般的叫帅哥，长得好看的叫小哥哥，长得超帅的叫老公。
+	</p>
+	<p>
+		3、恭喜景甜小姐加入微商三个月，通过自己的努力，喜提奥运冠军张继科。微商新女性，左手事业，右手家庭。<p></p>
+她热情大方，青春洋溢，全款拿下张继科，就是为了让微商团队的家人们都能学会乒乓球！
+	</p>
+	<p>
+		4、我们的中超职业运动员应该鼓励纹身。比如可以在显眼位置纹上：“0：6”，“1:4”; “1:5”等等。
+	</p>
+	<p>
+		5、坐地铁。对面站着一对情侣试图啵嘴。男的伸头女的躲，像两条处于攻击状态的蛇。。。
+	</p>
+	<p>
+		6、秘密是什么，秘密就是今日你与他人增进感情的催化剂，是明日你死于无形的致命伤。
+	</p>
+	<p>
+		7、能把单反的说明书仔仔细细看一遍，你的水平就已经超过70%所谓的摄影爱好者了。
+	</p>
+	<p>
+		8、为什么能有那么多人靠情感咨询赚钱？因为看着广大妇女声泪俱下发来的案例，心里的一定想的是：哇靠，太蠢了没治了，都蠢成这样一定很好骗钱。
+	</p>
+	<p>
+		9、虚拟的社交空间很容易燃起火花，一张好看的照片，一段感性的说话，轻而易举就能换来一个人的青睐。<p></p>......</div>
+                                            <div data-id="58981" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58981.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58981.html","text":"#ZOL笑话分享#【高冷妙段,有趣的很呀!】1、美人卷珠帘，惊起蛙声一片。2、女生眼中的男生：长得一般的叫帅哥，长得好看的叫小哥哥，长得超帅的叫老公。3、恭喜景甜小姐加入微商三个月，通过自...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58939.html">医学院的外科老师给同学讲解什么是无菌</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">医学院的外科老师给同学讲解什么是无菌什么是干净，老师说：你把一坨屎放在高压锅里蒸一个刻钟，它就是无菌的了，但是它干净不干净呢?真是服了这个老师，好有才。</div>
+                                            <div data-id="58939" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58939.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58939.html","text":"#ZOL笑话分享#【医学院的外科老师给同学讲解什么是无菌】医学院的外科老师给同学讲解什么是无菌什么是干净，老师说：你把一坨屎放在高压锅里蒸一个刻钟，它就是无菌的了，但是它干净不干净呢?真是服了这个老师...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58932.html">高冷笑段,笑果不小!</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、也许鸟儿背地里都是小机器人，它们坐在电线上是为了充电。
+	</p>
+	<p>
+		2、“怎样优雅地表达着凉拉肚子了？”<p></p>
+“你是无意穿堂风，偏偏孤倨引山洪。”
+	</p>
+	<p>
+		3、人生中遇见的每一样东西，出场顺序真的很重要。比如抹完护手霜之后短时间内是打不开润唇膏的。
+	</p>
+	<p>
+		4、白领们中午四处乱窜找午饭吃，一家家小饭馆都贴着初九以后才开张。所以白领确实是社会底层，就连路边卖早点的都没开始上班。
+	</p>
+	<p>
+		5、希望你想吃什么马上去吃，想做什么马上去做。毕竟你岁数大了，记性不好！
+	</p>
+	<p>
+		6、那些在感情中只求付出不求回报的，往往都能如愿以偿，得不到任何回报。
+	</p>
+	<p>
+		7、听说有个250盗取别人用户账号和视频，自己还报了110，也许这就是360吧。
+	</p>
+	<p>
+		8、看到同龄人有了孩子，我开始担心自己不光是一个社会学上没有意义的人，更是一个生物学上没有意义的人。
+	</p>
+	<p>
+		9、不得不说，中国真的越来越成熟和自信了。和2008年又是限行又是封道相比，这次办奥运一点都不扰民。<p></p>......</div>
+                                            <div data-id="58932" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58932.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58932.html","text":"#ZOL笑话分享#【高冷笑段,笑果不小!】1、也许鸟儿背地里都是小机器人，它们坐在电线上是为了充电。2、“怎样优雅地表达着凉拉肚子了？”“你是无意穿堂风，偏偏孤倨引山洪。”3、人生中遇见...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58916.html">爆逗,冷的爽也笑的欢</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text"><p>
+	1、“我们总是这样，一个以为不会走，一个以为会挽留。”卖衣服的张大妈对砍价的顾客说道 。。。
+</p>
+<p>
+	2、记者：您作为医生，经历过那些比较有意思的病例？<p></p>
+医生：去年有个病人，是个肺部隐球菌感染患者，我纳闷，为什么肺部会感染真菌，后来经过询问才知道，该患者每次洗袜子前都要用鼻子闻一闻。<p></p>
+记者。。。
+</p>
+<p>
+	3、“情人节快乐！ ”<p></p>
+“同乐同乐！ ”<p></p>
+鲜花店老板和宾馆老板一大早互相寒暄到。
+</p>
+<p>
+	4、我：“如何让所有的人都喜欢你？”<p></p>
+弟弟：“哈哈，别把不喜欢你的当成人不就好了。”<p></p>......</div>
+                                            <div data-id="58916" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58916.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58916.html","text":"#ZOL笑话分享#【爆逗,冷的爽也笑的欢】1、“我们总是这样，一个以为不会走，一个以为会挽留。”卖衣服的张大妈对砍价的顾客说道。。。2、记者：您作为医生，经历过那些比较有意思的病例？医...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58903.html">场面很尴尬,爆冷的一伙男女</a></span>
+                                            <div class="article-source"><span>来源：</span><span>哈哈MX</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、女孩：“我怀孕了。”<p></p>
+男孩慌了，转身打了个电话给她妈妈，电话那头是责骂的声音，要求儿子与她分手，把孩子打了。<p></p>
+男孩默默把电话挂了，经过内心的一翻挣扎终于对女孩开口：“对不起，把孩子打了吧！我们分手！ ”<p></p>
+女孩一脸振惊：“开什么玩笑！这孩子又不是你的。。。”
+	</p>
+	<p>
+		2.前女友跟我聊天<p></p>
+她说：“网吧里什么人都有，脱鞋脱袜子得，还有人在里面接吻。”<p></p>
+我说：“那有什么奇怪的，还有人在里面边看苍老师边撸管呢。”<p></p>
+她说：“你见过？”<p></p>
+我说：“我没有，但是我撸过……”
+	</p>
+	<p>
+		3、哥们来我家玩，中途我有事出去了一下，回家后他拍着我肩膀说：“我干了一件事，一会你楼下的妹子会来找你，加油拿下她!”<p></p>......</div>
+                                            <div data-id="58903" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58903.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58903.html","text":"#ZOL笑话分享#【场面很尴尬,爆冷的一伙男女】1、女孩：“我怀孕了。”男孩慌了，转身打了个电话给她妈妈，电话那头是责骂的声音，要求儿子与她分手，把孩子打了。男孩默默把电话挂了，经过内心的一...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58892.html">笑不嫌冷,越冷越有乐</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、电脑游戏从小就训练你，把“Boss”当作自己最大的敌人。
+	</p>
+	<p>
+		2、收入这么少，我哪需要那么多支付方式？
+	</p>
+	<p>
+		3、一个残酷现实是，你决定笨鸟先飞，别人后来扑腾两下就把你超了。
+	</p>
+	<p>
+		4、“混不好我就不回去了”，混音师说。
+	</p>
+	<p>
+		5、大师越来越少了，因为都被央视抓去做小罐茶了。
+	</p>
+	<p>
+		6、同事刚才放了个又响又臭的屁，可谓是闻者伤心，听者落泪。
+	</p>
+	<p>
+		7、老公你姓黄我姓马，为啥生个孩子你让他姓李？<p></p>......</div>
+                                            <div data-id="58892" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58892.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58892.html","text":"#ZOL笑话分享#【笑不嫌冷,越冷越有乐】1、电脑游戏从小就训练你，把“Boss”当作自己最大的敌人。2、收入这么少，我哪需要那么多支付方式？3、一个残酷现实是，你决定笨鸟先飞，别人后来扑腾...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58877.html">爆冷,笑点满满的逗段</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1.我妈给我泡了杯咖啡，我对她表示了赞美，她说：我就知道你喜欢娘泡的东西。
+	</p>
+	<p>
+		2.你在睡觉前花在手机上的时间越少，第二天工作时你就不得不花更多的时间玩回来。
+	</p>
+	<p>
+		3.一天很长，长到你的每一分精力都被榨干才会结束;一天又很短，短到被榨干的你还没有恢复过来，新的一天就又开始了。
+	</p>
+	<p>
+		4、“大熊，大熊，你为什么伤心？”海豹拍着北极熊的肩膀问。<p></p>
+北极熊哭泣道：“全球变暖，海平面上升，要出事了……”<p></p>
+海豹若有所思：“你是担心冰川减少？阳光辐射？还是鱼类深游，饭不够吃？”<p></p>......</div>
+                                            <div data-id="58877" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58877.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58877.html","text":"#ZOL笑话分享#【爆冷,笑点满满的逗段】1.我妈给我泡了杯咖啡，我对她表示了赞美，她说：我就知道你喜欢娘泡的东西。2.你在睡觉前花在手机上的时间越少，第二天工作时你就不得不花更多的时间...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li><li class="article-summary"> 
+                                            <span class="article-topbar"></span>
+                                            <span class="article-title"><a target="_blank" href="/detail59/58840.html">冷幽默:仔细一想,还真是这样</a></span>
+                                            <div class="article-source"><span>来源：</span><span>笑话集</span></div>
+                                            <div class="summary-text">
+	
+	<p>
+		1、脾气大的人，就算成了佛系，也是武僧。
+	</p>
+	<p>
+		2、身在福中不知福，说的是有些人已经发福了但自己却装作不知道一样。
+	</p>
+	<p>
+		3、佛系细分一下，以有下派系：<p></p>
+爱喝酒、脾气差的，叫鲁智深系；<p></p>
+爱吃肉、胆子孝想脱单的，叫净坛使者系；<p></p>
+家里穷得叮当响的，叫济公系；<p></p>
+脱发严重、为人老实的，叫沙僧系；<p></p>
+个子比较矮的，叫土行孙系；<p></p>
+爱骑平衡车的，叫哪吒系；<p></p>
+整天哈哈哈哈哈哈哈哈哈的，叫弥勒系；<p></p>
+有洁癖的，叫扫地僧系；
+	</p>
+	<p>
+		4、在古代，药店都会挂一副对联：但愿世间人无病，宁可架上药生尘；<p></p>......</div>
+                                            <div data-id="58840" class="article-commentbar articleCommentbar clearfix">
+                                                <a target="_blank" href="/detail59/58840.html" class="all-read">查看全文&raquo;</a>
+                                                <div class="share-btn-box">
+                                                    <em class="share-btn"><i class="icon"></i><span class="text">分享</span></em>
+                                                    <div class="article-layer-box"> 
+                                                        <div class="layer-inner"> 
+                                                            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share-item clearfix" data='{"url":"//xiaohua.zol.com.cn/detail59/58840.html","text":"#ZOL笑话分享#【冷幽默:仔细一想,还真是这样】1、脾气大的人，就算成了佛系，也是武僧。2、身在福中不知福，说的是有些人已经发福了但自己却装作不知道一样。3、佛系细分一下，以有下派系：爱喝酒、...... 一起看笑话，传递正能量：","pic":"//icon.zol.com.cn/xiaohua/images/xiaohua-tg.jpg"}'>
+                                                                <a class="bds_tsina sina" title="分享到新浪微博"><i></i>新浪微博</a>
+                                                                <a class="bds_qzone qqzone" title="分享到QQ空间"><i></i>QQ空间</a>
+                                                                <a class="bds_tqq qqweibo" title="分享到腾讯微博"><i></i>腾讯微博</a>
+                                                                <a class="bds_sqq qq" title="分享到QQ好友"><i></i>QQ好友</a>
+                                                                <a class="bds_renren renren" title="分享到人人网"><i></i>人人网</a> 
+                                                            </div>
+                                                        </div>   
+                                                         <i class="icon arrow-icon"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="good-btn-box vote-btn">
+                                                    <em class="good-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                                <div class="bad-btn-box  vote-btn">
+                                                    <em class="bad-btn"><i class="icon"></i><span class="text"></span></em>
+                                                </div>
+                                            </div>
+                                        </li> 
+		</ul>
+		<!-- //article-list -->
+		
+		<!-- page-box -->
+                <div class="page-box">
+                                <div class="page"><span class="now">1</span><a href="/lengxiaohua/2.html" target="_self">2</a><a href="/lengxiaohua/3.html" target="_self">3</a><a href="/lengxiaohua/4.html" target="_self">4</a><a href="/lengxiaohua/5.html" target="_self">5</a><span class="morelink">...</span><a class="page-next" target="_self" href="/lengxiaohua/2.html">下一页</a><a href="/lengxiaohua/11.html" target="_self">后10页</a></div></div>		<!-- //page-box --> 
+	</div>
+	<!-- //main -->
+	
+	<!-- aside -->
+	<div class="aside"> 
+		<!-- section -->
+		<div class="section hot-nets">
+			<div class="section-header">
+				<h2 class="icon-title joke-icon">笑话连篇24小时排行</h2>
+			</div>
+			<ul class="rank-list">
+                <li>
+                                                <em class="n1">1</em>
+                                                <span class="num">15125</span>
+                                                <a title="我还想瘦5公斤呢" target="_blank" href="/detail20/19619.html">我还想瘦5公斤呢</a>
+                                            </li><li>
+                                                <em class="n1">2</em>
+                                                <span class="num">7779</span>
+                                                <a title="北极熊" target="_blank" href="/detail40/39873.html">北极熊</a>
+                                            </li><li>
+                                                <em class="n1">3</em>
+                                                <span class="num">4812</span>
+                                                <a title="美女问路" target="_blank" href="/detail40/39840.html">美女问路</a>
+                                            </li><li>
+                                                <em>4</em>
+                                                <span class="num">4293</span>
+                                                <a title="考试" target="_blank" href="/detail40/39779.html">考试</a>
+                                            </li><li>
+                                                <em>5</em>
+                                                <span class="num">3949</span>
+                                                <a title="喝醉的后果" target="_blank" href="/detail40/39778.html">喝醉的后果</a>
+                                            </li><li>
+                                                <em>6</em>
+                                                <span class="num">3365</span>
+                                                <a title="好冷的笑话" target="_blank" href="/detail40/39974.html">好冷的笑话</a>
+                                            </li><li>
+                                                <em>7</em>
+                                                <span class="num">3309</span>
+                                                <a title="两只鹦鹉" target="_blank" href="/detail40/39808.html">两只鹦鹉</a>
+                                            </li><li>
+                                                <em>8</em>
+                                                <span class="num">741</span>
+                                                <a title="羊来了？" target="_blank" href="/detail41/40011.html">羊来了？</a>
+                                            </li><li>
+                                                <em>9</em>
+                                                <span class="num">596</span>
+                                                <a title="到底是什么原因" target="_blank" href="/detail41/40012.html">到底是什么原因</a>
+                                            </li><li>
+                                                <em>10</em>
+                                                <span class="num">511</span>
+                                                <a title="吐字不清晰的后果" target="_blank" href="/detail41/40006.html">吐字不清晰的后果</a>
+                                            </li>			</ul>
+		</div>
+		<!-- //section -->
+		
+		<!-- section -->
+		<div class="section">
+			<div class="section-header">
+				<a href="/qutu/" class="more">更多&raquo;</a>
+				<h2 class="icon-title simle-icon">搞笑趣图热门推荐</h2>
+			</div>
+			<ul class="pic-news">
+                <li>
+                                <a target="_blank" href="/detail40/39639.html" class="pic"><img src="https://xiaohua-fd.zol-img.com.cn/t_s175x100c3/g3/M00/0C/00/Cg-4WFJWPYuIHr7lAAFMfOFsynEAAMZLAC-LnoAAUyU781.jpg" alt="帮个忙" width="130" /></a>
+                                <h4><a target="_blank" title="帮个忙" href="/detail40/39639.html">帮个忙</a></h4>
+                                <p class="source"><span>互联网</span></p>
+                                <p>97人推荐</p>
+                            </li><li>
+                                <a target="_blank" href="/detail40/39915.html" class="pic"><img src="https://xiaohua-fd.zol-img.com.cn/t_s175x100c3/g4/M07/06/09/Cg-4WVJWOc-ITuLiAAC7UFsH424AAMZUQHlQzcAALto435.jpg" alt="果然最好骗的还是小孩子。。。" width="130" /></a>
+                                <h4><a target="_blank" title="果然最好骗的还是小孩子。。。" href="/detail40/39915.html">果然最好骗的还是小孩子。。。</a></h4>
+                                <p class="source"><span>互联网</span></p>
+                                <p>46人推荐</p>
+                            </li><li>
+                                <a target="_blank" href="/detail41/40284.html" class="pic"><img src="https://xiaohua-fd.zol-img.com.cn/t_s175x100c3/g4/M04/06/08/Cg-4WlJWMneIe51pAB0oW-dd03gAAMZQgBZ3jgAHShz796.gif" alt="10秒钟攀上四楼，中国特警威武赞一个。" width="130" /></a>
+                                <h4><a target="_blank" title="10秒钟攀上四楼，中国特警威武赞一个。" href="/detail41/40284.html">10秒钟攀上四楼，中国特警威武赞一个。</a></h4>
+                                <p class="source"><span>互联网</span></p>
+                                <p>945人推荐</p>
+                            </li><li>
+                                <a target="_blank" href="/detail42/41119.html" class="pic"><img src="https://xiaohua-fd.zol-img.com.cn/t_s175x100c3/g4/M01/06/08/Cg-4WVJWJseIBcDxABNM-AX4GgUAAMZJwLpAocAE00Q254.gif" alt="变身！超级赛亚人！" width="130" /></a>
+                                <h4><a target="_blank" title="变身！超级赛亚人！" href="/detail42/41119.html">变身！超级赛亚人！</a></h4>
+                                <p class="source"><span>互联网</span></p>
+                                <p>31人推荐</p>
+                            </li><li>
+                                <a target="_blank" href="/detail43/42498.html" class="pic"><img src="https://xiaohua-fd.zol-img.com.cn/t_s175x100c3/g4/M08/0B/0F/Cg-4WlP9eH6ISvMQAAy7rNSY_5QAAQ3AQM7-DEADLvE732.gif" alt="不做死就不会死" width="130" /></a>
+                                <h4><a target="_blank" title="不做死就不会死" href="/detail43/42498.html">不做死就不会死</a></h4>
+                                <p class="source"><a  rel="nofollow" target="_blank" href="//my.zol.com.cn/webshots/">webshots</a></p>
+                                <p>30人推荐</p>
+                            </li>			</ul> 
+		</div>
+		<!-- //section -->
+		
+		<!-- section -->
+		<div class="section">
+			<div class="section-header">
+				<a href="/video/" class="more">更多&raquo;</a>
+				<h2 class="icon-title simle-icon">搞笑视频推荐</h2>
+			</div>
+			<ul class="rank-list video-list">
+                <li>
+                                <em class="n1">1</em>
+                                <span class="num">5</span>
+                                <a target="_blank" title="日本搞笑视频：越狱兔第三十一集" href="/detail20/19752.html">日本搞笑视频：越狱兔第三十一集<i class="video-icon"></i></a>
+                            </li><li>
+                                <em class="n1">2</em>
+                                <span class="num">6</span>
+                                <a target="_blank" title="恶搞配音神吐槽 十大逆袭情侣" href="/detail20/19638.html">恶搞配音神吐槽 十大逆袭情侣<i class="video-icon"></i></a>
+                            </li><li>
+                                <em class="n1">3</em>
+                                <span class="num">4</span>
+                                <a target="_blank" title="美国音乐天才用洗衣机奏乐" href="/detail20/19673.html">美国音乐天才用洗衣机奏乐<i class="video-icon"></i></a>
+                            </li><li>
+                                <em>4</em>
+                                <span class="num">10</span>
+                                <a target="_blank" title="韩国女子搞笑二人组IUV 太逆天了 各种受不了" href="/detail20/19607.html">韩国女子搞笑二人组IUV 太逆天了 各种受不了<i class="video-icon"></i></a>
+                            </li><li>
+                                <em>5</em>
+                                <span class="num">3</span>
+                                <a target="_blank" title="有一种幽默，叫泰国广告！因为它能发现生命中美好的小事" href="/detail20/19859.html">有一种幽默，叫泰国广告！因为它能发现生命中美好的小事<i class="video-icon"></i></a>
+                            </li><li>
+                                <em>6</em>
+                                <span class="num">20</span>
+                                <a target="_blank" title="笑抽了！日本超坑爹街头整人电视节目" href="/detail20/19668.html">笑抽了！日本超坑爹街头整人电视节目<i class="video-icon"></i></a>
+                            </li><li>
+                                <em>7</em>
+                                <span class="num">1</span>
+                                <a target="_blank" title="《还你西游真相》白龙马的爱情保卫战" href="/detail20/19698.html">《还你西游真相》白龙马的爱情保卫战<i class="video-icon"></i></a>
+                            </li><li>
+                                <em>8</em>
+                                <span class="num">3</span>
+                                <a target="_blank" title="日本搞笑视频：越狱兔第十集" href="/detail20/19794.html">日本搞笑视频：越狱兔第十集<i class="video-icon"></i></a>
+                            </li><li>
+                                <em>9</em>
+                                <span class="num">6</span>
+                                <a target="_blank" title="日本搞笑视频：越狱兔第三十九集" href="/detail20/19743.html">日本搞笑视频：越狱兔第三十九集<i class="video-icon"></i></a>
+                            </li><li>
+                                <em>10</em>
+                                <span class="num">3</span>
+                                <a target="_blank" title="重口味慎入！蟒蛇反刍吐出完整奶牛" href="/detail20/19799.html">重口味慎入！蟒蛇反刍吐出完整奶牛<i class="video-icon"></i></a>
+                            </li>			</ul>
+		</div>
+		<!-- //section -->
+		                 <!--section-->
+                                <div class="section">
+                    <div class="section-header">
+                        <a href="//sj.zol.com.cn/series/" target="_blank" class="more">更多&raquo;</a>
+                        <h2 class="icon-title simle-icon">热门手游推荐</h2>
+                    </div>
+                    <ul class="pic-list clearfix">
+                                                <li><a href="//sj.zol.com.cn/wangzherongyao/" class="pic" title="王者荣耀"> <img  alt="王者荣耀" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0D/00/ChMkJ1f69qKIbbpdAACcT8LNB-UAAWxLgLDW0IAAJxn770.png"> <span>王者荣耀</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/angrybirdsspace/" class="pic" title="愤怒的小鸟太空手机版"> <img  alt="愤怒的小鸟太空手机版" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0D/00/ChMkJ1f694GIRxfCAAAy1VChk_0AAWxOQKZdSwAADLt012.jpg"> <span>愤怒的小鸟太空手机版</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/jjddz/" class="pic" title="JJ斗地主"> <img  alt="JJ斗地主" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0D/00/ChMkJlf69wCIJTcGAAIwE5KG3R0AAWxMgBxOnsAAjAr278.png"> <span>JJ斗地主</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/samuraiii/" class="pic" title="武士2"> <img  alt="武士2" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0E/03/ChMkJ1vo2tKINQNSAAJUgfEYXBgAAtHKAO1BDIAAlSZ311.jpg"> <span>武士2</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/ragingthunder/" class="pic" title="雷霆赛车"> <img  alt="雷霆赛车" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0D/00/ChMkJ1f693OIYA1xAAA5N9B8V8kAAWxOAKOe-wAADlP740.jpg"> <span>雷霆赛车</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/carrotfantasy/" class="pic" title="保卫萝卜"> <img  alt="保卫萝卜" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0D/00/ChMkJ1f69xuISsOJAAAlIoouMSsAAWxMwFJEtwAACU6457.jpg"> <span>保卫萝卜</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/jetpackjoyride/" class="pic" title="疯狂喷气机"> <img  alt="疯狂喷气机" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0D/00/ChMkJlf694OIDK7RAAMMeTYQW7kAAWxOQLNbpoAAwyR359.jpg"> <span>疯狂喷气机</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/doodlejump/" class="pic" title="涂鸦跳跃"> <img  alt="涂鸦跳跃" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0D/00/ChMkJ1f693yIY_F0AANkTxZOC0kAAWxOQF6nLwAA2Rn405.jpg"> <span>涂鸦跳跃</span></a></li>
+                                                <li><a href="//sj.zol.com.cn/yxs/" class="pic" title="英雄杀"> <img  alt="英雄杀" width="70" height="70" src="https://sj-fd.zol-img.com.cn/t_s80x80/g5/M00/0C/0F/ChMkJ1rWvcmIXLt6AAs96pYsNzQAAnuYQCRUkEACz4C729.png"> <span>英雄杀</span></a></li>
+                                            </ul> 
+                </div>
+                                                <!--//section-->
+                <div class="section">
+                    <div class="section-header">
+                        <a href="//sj.zol.com.cn/series/" target="_blank" class="more">更多&raquo;</a>
+                        <h2 class="icon-title simle-icon">热门软件推荐</h2>
+                    </div>
+                    <ul class="rank-list">
+                                            <li>
+                            <em class="n1">1</em>
+                            <a target="_blank" title="叉叉助手" href="//sj.zol.com.cn/xxgameassistant/">叉叉助手</a>
+                        </li>
+                                            <li>
+                            <em class="n1">2</em>
+                            <a target="_blank" title="畅玩助手" href="//sj.zol.com.cn/changwanzhushou/">畅玩助手</a>
+                        </li>
+                                            <li>
+                            <em class="n1">3</em>
+                            <a target="_blank" title="手机QQ邮箱" href="//sj.zol.com.cn/qqmail/">手机QQ邮箱</a>
+                        </li>
+                                            <li>
+                            <em>4</em>
+                            <a target="_blank" title="手机QQ2013" href="//sj.zol.com.cn/qq2013/">手机QQ2013</a>
+                        </li>
+                                            <li>
+                            <em>5</em>
+                            <a target="_blank" title="WiFi万能钥匙" href="//sj.zol.com.cn/wifikey/">WiFi万能钥匙</a>
+                        </li>
+                                            <li>
+                            <em>6</em>
+                            <a target="_blank" title="微视" href="//sj.zol.com.cn/weishi/">微视</a>
+                        </li>
+                                            <li>
+                            <em>7</em>
+                            <a target="_blank" title="手机迅雷" href="//sj.zol.com.cn/thunder/">手机迅雷</a>
+                        </li>
+                                            <li>
+                            <em>8</em>
+                            <a target="_blank" title="搜狗手机输入法" href="//sj.zol.com.cn/sougou/">搜狗手机输入法</a>
+                        </li>
+                                        </ul>
+                </div>
+                		<!-- section -->
+                
+<!--                <div class="section" style="height:250px;"><script>write_ad("xiaohua_list_left_down");</script></div>-->
+		<!-- //section -->
+			</div>
+	<!-- //aside -->
+</div>
+<!-- //wrapper -->
+
+<!-- wrapper -->
+<div class="wrapper">
+	<div class="wrapper-header"> 
+		<a href="//desk.zol.com.cn" target="_blank" class="more">更多&raquo;</a>
+		<h3>精美桌面壁纸推荐</h3>
+	</div>
+	<ul id="deskBiZhiDiv" class="wallpaper-list clearfix">
+        <li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/6849_85484_2.html" target="_blank" hidefocus="true"><img alt="新海诚《你的名字》桌面壁纸" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/01/04/ChMkJ1g2YQeIbYQRABTlVmUrO4AAAYB0gGpqwMAFOVu246.jpg" width="208px" height="130px"><span><em>新海诚《你的名字》桌面壁纸</em> (9张)</span></a>
+                        <div class="shadow"></div>
+                    </li><li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/5245_64912_2.html" target="_blank" hidefocus="true"><img alt="win 10风景桌面图片" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g4/M00/0D/01/Cg-4y1ULoXCII6fEAAeQFx3fsKgAAXCmAPjugYAB5Av166.jpg" width="208px" height="130px"><span><em>win 10风景桌面图片</em> (13张)</span></a>
+                        <div class="shadow"></div>
+                    </li><li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/1911_24217_2.html" target="_blank" hidefocus="true"><img alt="《我想对十年前的自己说》墙纸" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/02/01/ChMkJlbKxROIW_nfAARlZisGo5oAALHQgDqh_4ABGV-095.jpg" width="208px" height="130px"><span><em>《我想对十年前的自己说》墙纸</em> (11张)</span></a>
+                        <div class="shadow"></div>
+                    </li><li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/5418_67006_2.html" target="_blank" hidefocus="true"><img alt="哆啦A梦：伴我同行壁纸" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g2/M00/0D/01/Cg-4WVVQcouISU7kAA6N538XdxUAADYFQIN1P4ADo3_119.jpg" width="208px" height="130px"><span><em>哆啦A梦：伴我同行壁纸</em> (14张)</span></a>
+                        <div class="shadow"></div>
+                    </li><li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/4033_49930_2.html" target="_blank" hidefocus="true"><img alt="创意摄影高清电脑壁纸" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/02/05/ChMkJlbKyb6IYJGWAATekkst1RUAALISAEfBfMABN6q457.jpg" width="208px" height="130px"><span><em>创意摄影高清电脑壁纸</em> (11张)</span></a>
+                        <div class="shadow"></div>
+                    </li><li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/208_2515_2.html" target="_blank" hidefocus="true"><img alt="苹果系统自带宽屏壁纸" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/01/0E/ChMkJlbKwb-ICN4AABUJePyYlCsAALGdQBh26MAFQmQ974.jpg" width="208px" height="130px"><span><em>苹果系统自带宽屏壁纸</em> (15张)</span></a>
+                        <div class="shadow"></div>
+                    </li><li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/4961_61575_2.html" target="_blank" hidefocus="true"><img alt="经典自然景色win 10壁纸" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g3/M06/01/0E/Cg-4WFStAUWIRyxKABchH4BNyBAAAS_KAJHuWQAFyE3952.jpg" width="208px" height="130px"><span><em>经典自然景色win 10壁纸</em> (13张)</span></a>
+                        <div class="shadow"></div>
+                    </li><li> 
+                        <a class="pic" href="http://desk.zol.com.cn/bizhi/774_8742_2.html" target="_blank" hidefocus="true"><img alt="极致创意简约桌面壁纸欣赏" loadsrc="https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/01/0F/ChMkJ1bKwraIN02iAAHxh2wxtLEAALGsAIAQI8AAfGf681.jpg" width="208px" height="130px"><span><em>极致创意简约桌面壁纸欣赏</em> (12张)</span></a>
+                        <div class="shadow"></div>
+                    </li>	</ul>
+</div>
+<!-- //wrapper -->
+
+<!-- wrapper -->
+<div class="wrapper">
+	<p class="notice model mt15">ZOL笑话大全有部分资源来源于互联网，内容版权归原作者所有，若有侵权问题敬请告知，我们会立即处理。本站娱乐资源如果没有特殊声明，<em>一律禁止任何形式的转载和盗用</em>。</p>
+</div>
+<!-- //wrapper -->
+<script type="text/javascript" src="//icon.zol-img.com.cn/public/js/web_footc.js"></script>
+<script type="text/javascript" src="//icon.zol-img.com.cn/public/js/web_foot.js"></script>  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91565217-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="//s.zol-img.com.cn/d/Xiaohua/Xiaohua_jQuery.js?v=652"></script>
+<script type="text/javascript" src="//icon.zol-img.com.cn/sj/js/surveyNew.js"></script>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=14034" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+    var bds_config= {"render":"false"/*,"wbUid": "1747383115"*/,"review":"off","snsKey":{"douban":"038da04052b48ba40aa8e0c0f81da2ec","qzone":"99d207b90670adceaaa416b63528d92c","tsina":"4028615622","tqq":"99d207b90670adceaaa416b63528d92c"}}
+    document.getElementById("bdshell_js").src = "//bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+    var videoJson = '';
+</script>
+<script type="text/javascript" src="//s.zol-img.com.cn/d/Xiaohua/Xiaohua_List.js?v=652"></script>
+<script>write_ad("xiaohua_end");</script>
+</body>
+</html>
